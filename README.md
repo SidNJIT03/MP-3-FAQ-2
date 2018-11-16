@@ -1,4 +1,4 @@
-# MP-3-FAQ
+# MP-3-FAQ-2
 
 To run the FAQ project:
 
