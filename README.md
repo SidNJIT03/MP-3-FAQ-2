@@ -1,8 +1,8 @@
-# MP-3-FAQ
+# MP-3-FAQ-2
 
 To run the FAQ project:
 
-1. git clone https://github.com/SidNJIT03/MP-3-FAQ.git
+1. git clone https://github.com/SidNJIT03/MP-3-FAQ-2.git
 2. CD into FAQ and run composer install
 3. cp .env.example to .env
 4. run: php artisan key:generate
